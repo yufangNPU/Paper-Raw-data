@@ -1,0 +1,25 @@
+COHPstartEnergy  -22
+COHPendEnergy     18
+usebasisset pbeVaspFit2015
+basisfunctions Al 3s 3p
+basisfunctions B  2s 2p
+basisfunctions Mo 4p 4d 5s
+basisfunctions Y  4s 4p 4d 5s 
+
+#cohpbetween atom 31 and atom 30
+#cohpbetween atom 31 and atom 34
+#cohpbetween atom 31 and atom 43
+#cohpbetween atom 31 and atom 43
+#cohpbetween atom 31 and atom 7
+#cohpbetween atom 31 and atom 11
+#cohpbetween atom 34 and atom 39
+#cohpbetween atom 34 and atom 42
+#cohpbetween atom 34 and atom 7
+#cohpbetween atom 34 and atom 13
+#cohpbetween atom 43 and atom 44
+#cohpbetween atom 43 and atom 3
+#cohpbetween atom 43 and atom 11
+cohpbetween atom 11  and atom 18 orbitalwise
+#cohpbetween atom 1  and atom 10
+#cohpbetween atom 10 and atom 19
+#cohpbetween atom 10 and atom 17
